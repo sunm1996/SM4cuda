@@ -1,4 +1,5 @@
 # SM4cuda
-#SM4 
-#cuda
-#gpu
+
+#author:sunmeng
+#2018/1/12
+
